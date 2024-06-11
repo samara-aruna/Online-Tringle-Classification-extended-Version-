@@ -1,0 +1,31 @@
+<h1> Online Tringle Classification bassed on their Angels Application</h1>
+<img src="assets/O-Level-Math_LP-Banner-1.jpg" class="img_one" >
+
+<table border="0" class="table_one">
+<tbody>
+<tr>
+  <td> Enter First Angle :</td>
+  <td><input type="number" name="firstAngle" [(ngModel)]="firstAngle" ></td>
+</tr>
+<tr>
+  <td> Enter Second Angle :</td>
+  <td><input type="number" name="secondAngle" [(ngModel)]="secondAngle"></td>
+</tr>
+<tr>
+  <td> Enter Third Angle : </td>
+  <td><input type="number" name="thirdAngle" [(ngModel)]="thirdAngle"></td>
+</tr>
+</tbody>
+</table>
+<button type="button" class="btn btn-success" (click)="get_result()">Get Answer</button>
+<table class="table_two" border="0">
+<tbody>
+  <tr>
+    <td> Type of the Tringle : </td>
+    <td>{{result}} and {{result2}}</td>
+  </tr>
+</tbody>
+</table>
+
+<img src="assets/mathematics-equations-learning-banner_gc-banner-1600x400.jpg" class="img_two" >
+<p> Copyright © 2024 Developed by Aruna Samarasinghe (Ux/Ui Designer and Web Developer)</p>

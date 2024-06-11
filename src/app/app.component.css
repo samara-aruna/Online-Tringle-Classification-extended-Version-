@@ -1,0 +1,66 @@
+h1
+{
+    text-align:center;
+    color:black;
+    font-size: 50px;
+    font-weight:bold;
+}
+.img_one
+{
+    width:1220px;
+    height:400px;
+    margin-left:1.5cm;
+    margin-right:1cm;
+    border-radius:30px;
+}
+td
+{
+    font-size: 30px;
+    padding:10px;
+}
+.table_one
+{
+    margin-left:9cm;
+    padding:40px;
+    background-color:burlywood;
+    margin-top:1cm;
+    border-radius: 30px;
+   
+}
+button
+{
+    font-size: 20px;
+    margin-left:15cm;
+    margin-top:0.9cm;
+}
+.table_two
+{
+    margin-left:7cm;
+    padding:40px;
+    background-color:cornflowerblue;
+    margin-top:1cm;
+    border-radius: 20px;
+}
+.img_two
+{
+    width:1220px;
+    height:400px;
+    margin-left:1.5cm;
+    margin-right:1cm;
+    border-radius:30px;
+    margin-top:1cm;
+    opacity: 0.9;
+}
+p
+{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: black;
+    color:white;
+    padding:3px;
+    margin-left: 1.5cm;
+    margin-right:1.4cm;
+    border-radius:30px;
+
+}
